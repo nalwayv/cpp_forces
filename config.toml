@@ -1,0 +1,11 @@
+[ball_a]
+position_x = 100.0
+position_y = 50.0
+mass = 2.0
+radius = 10.0
+
+[ball_b]
+position_x = 300.0
+position_y = 50.0
+mass = 4.0
+radius = 15.0
